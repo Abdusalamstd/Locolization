@@ -43,16 +43,17 @@ SDL *[SDL Trados Studio](https://www.sdl.com/)*.<br>
 POEdit *[POEdit](https://poedit.net)*.<br>
 مىكروسوفىت ئاتالغۇلار بىتى *[Microsoft](https://www.microsoft.com/en-us/language/Terminology)*.<br>
 <br><br>
-
 كەمىنە يالغۇز تاماملىغان تەرجىمە پىروگىراممىللىرى<br>
 ئۇبانتۇ رەسىم تۇتۇش دىتالى Shuter *[Shutter](https://translations.launchpad.net/shutter)*.<br>
 دۆلىتىمىزدىكى مودا توردا كود تەكشۈرۈش سۇپىسى *[Online Judge](https://github.com/zhblue/hustoj)*.<br>
 مىنىڭچە نوچى سانىلىدىغان خۇسۇسىي تەرجىمان *[Crow-Translate](https://github.com/crow-translate/crow-translate)*.<br>
 مۇشۇ يەردە پىشكە بار *[Launchpad](https://translations.launchpad.net/~abdusalamstd/+activity)*.<br>
+مىنىڭ تەرجىمەم مىيەدىمۇ بار *[Weblate](https://hosted.weblate.org/user/Abdusalam/)*.<br>
+مەن مىيەدىمۇ بار *[Transfex](https://www.transifex.com/user/profile/Abdusalam/)*.<br>
 <br>
 كەمىنە ياردەملەشكەن تەرجىمە پىروگىراممىللىرى<br>
-This is the *[Launchpad](https://translations.launchpad.net)*.<br>
-This is the *[Launchpad](https://translations.launchpad.net)*.<br>
-This is the *[Launchpad](https://translations.launchpad.net)*.<br>
-This is the *[Launchpad](https://translations.launchpad.net)*.<br>
+ئۇبانتۇ تىلىمچە تەرجىمىسى *[Launchpad Ubuntu](https://translations.launchpad.net/ubuntu/focal/+lang/ug)*.<br>
+كورنىيۇم تكر كۆرگۈ *[Launchpad Chromium Browser](https://translations.launchpad.net/chromium-browser/translations/+lang/ug)*.<br>
+بۇ يەردە بارمىكى مىنىڭ قىلغانلىرىم *[Launchpad](https://translations.launchpad.net)*.<br>
+بۇ يەردىمۇ بارمىكى *[Launchpad](https://launchpad.net)*.<br>
  </p>
